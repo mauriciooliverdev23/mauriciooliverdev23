@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Mauricio%20Oliveira&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%26%20Product%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<h1>Mauricio Oliveira</h1>
+<h3>Software Engineer &amp; Product Builder</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Java+%2B+Spring+Boot;APIs+REST+escal%C3%A1veis+com+PostgreSQL;Transformo+problemas+reais+em+produtos+digitais;Fundador+de+produtos+SaaS" alt="Typing SVG" />
 
@@ -103,7 +104,7 @@ Sou **desenvolvedor Full Stack com foco em backend Java**, atuando como freelanc
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mauriciooliverdev23&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribui%C3%A7%C3%B5es%20(incluindo%20reposit%C3%B3rios%20privados)" width="100%" alt="Gráfico de atividade" />
+<sub>📈 O gráfico de contribuições logo abaixo inclui a atividade dos repositórios privados (de forma anônima).</sub>
 
 </div>
 
@@ -116,7 +117,5 @@ Sou **desenvolvedor Full Stack com foco em backend Java**, atuando como freelanc
 Aberto a vagas **Backend Java / Full Stack** (remoto) e projetos freelancer.
 
 <a href="https://www.linkedin.com/in/mauricio-oliveira-01295a3a6"><img src="https://img.shields.io/badge/Fale%20comigo%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
