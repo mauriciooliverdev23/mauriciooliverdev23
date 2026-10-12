@@ -8,7 +8,7 @@
 <p>
   <a href="https://www.linkedin.com/in/mauricio-oliveira-01295a3a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mauriciooliverdev23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Campinas%2C%20SP-Remoto-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Juazeiro%20do%20Norte%2C%20CE-Remoto-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dispon%C3%ADvel-para%20oportunidades-2563eb?style=for-the-badge"/>
 </p>
 
